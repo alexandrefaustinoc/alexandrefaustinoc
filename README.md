@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Alexandre Faustino 🖐️
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefaustinoc&show_icons=true&theme=dracula&count_private=true)
+![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefaustinoc&theme=dracula&hide_border=false&&layout=compact)
+
 
 ## Tecnologias que estou estudando no momento!
 
@@ -11,8 +13,11 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 </br>
+ 
  
 ## Entre em contato!
 
