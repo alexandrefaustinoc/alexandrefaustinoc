@@ -4,7 +4,7 @@
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefaustinoc&theme=dracula&hide_border=false&&layout=compact)
 
 
-## Tecnologias que estou estudando no momento!
+## Tecnologias que tenho conhecimento e algumas que estou estudando!
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +17,9 @@
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="cypress" height="30" width="40" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg">
+  <img align="center" alt="playright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg">
+  <img align="center" alt="postman" height="30" width="40" src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg">
 </div>
 </br>
  
