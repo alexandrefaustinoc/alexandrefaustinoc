@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Alexandre Faustino 🖐️
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrefaustinoc&show_icons=true&theme=dracula&count_private=true)
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrefaustinoc&theme=dracula&hide_border=false&&layout=compact)
-
 
 ## Tecnologias que tenho conhecimento e algumas que estou estudando!
 
